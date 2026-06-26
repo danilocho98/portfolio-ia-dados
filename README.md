@@ -22,12 +22,12 @@ Estudo e implementação de algoritmos clássicos de classificação e modelagem
 *   **Projeto:** *Classificador de Sentimentos (SVM)* — Algoritmo de Support Vector Machine em Python para análise de polaridade e classificação binária de opiniões em blocos de texto.
 *   **Tecnologias:** Python, Pandas, NumPy, Scikit-Learn e Matplotlib.
 
-### 3. [Processamento de Linguagem Natural (PLN)](./enem-linguagem-natural.ipynb)
+### 3. [Processamento de Linguagem Natural (PLN)](./Tutor ENEM - NLP/)
 Classificação estatística de textos e NLP.
 *   **Projeto:** *Classificador de Questões do ENEM* — Pipeline de classificação de enunciados com **94% de acurácia** (LinearSVC) e sistema híbrido de busca e recomendação.
 *   **Tecnologias:** Python, NLTK, Scikit-Learn (TF-IDF, Validação Cruzada K-Fold).
 
-### 4. [Processamento de Dados & Estatística (R)](./R%20-%20Estatistica/)
+### 4. [Processamento de Dados & Estatística (R)](./Projetos Academicos/R - Estatistica/)
 Tratamento e análise estatística aplicada a indicadores econômicos globais.
 *   **Projeto:** *Análise Histórica do Índice Big Mac* — Script em R e relatório dinâmico para análise de paridade de poder de compra (PPP) e variância cambial (desenvolvido para estudantes da FEA-USP).
 *   **Tecnologias:** Linguagem R, RMarkdown, Estatística Descritiva (Média, Variância) e Visualização Base R.
@@ -36,6 +36,12 @@ Tratamento e análise estatística aplicada a indicadores econômicos globais.
 Classificação de imagens utilizando redes profundas.
 *   **Projeto:** *Classificador de Raças de Cães* — Rede convolucional (CNN) utilizando Transfer Learning (InceptionResNetV2) no conjunto do ImageNet.
 *   **Tecnologias:** TensorFlow, Keras, Data Augmentation e Hugging Face Spaces.
+
+### 6. [Projetos Acadêmicos & Engenharia](./Projetos Academicos/)
+Estudos e resoluções computacionais de engenharia e métodos numéricos desenvolvidos na Poli-USP.
+*   **Projetos:** 
+    *   *Simulação Termohidráulica:* Simulação 1D em Python (correlação Dittus-Boelter) do elemento combustível tipo placa (PMT3533).
+    *   *Métodos Numéricos:* Algoritmos de zeros de funções (bisseção, Newton), sistemas lineares (Jacobi, Gauss-Seidel), EDOs (Runge-Kutta 4 em Julia) e posicionamento GPS (MAP3121).
 
 ---
 
