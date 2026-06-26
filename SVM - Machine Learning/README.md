@@ -33,9 +33,9 @@ O projeto explora a matemática e a aplicação prática de **Support Vector Mac
 ### 1. Executar Online no Google Colab (Recomendado)
 Você pode abrir e rodar este notebook diretamente na nuvem (sem precisar instalar nada na sua máquina) clicando no botão abaixo:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dcho98/portfolio-ia-dados/blob/main/SVM%20-%20Machine%20Learning/Danilo%20Cho%20-%20EP1-SVM-Classific_Sentimentos-2024-alunos.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danilocho98/portfolio-ia-dados-tech/blob/main/SVM%20-%20Machine%20Learning/Danilo%20Cho%20-%20EP1-SVM-Classific_Sentimentos-2024-alunos.ipynb)
 
-*(Nota: Lembre-se de ajustar a URL acima com o caminho exato do seu repositório quando subir o arquivo para o seu GitHub).*
+*(Nota: Este link aponta diretamente para o notebook no seu GitHub).*
 
 ### 2. Executar Localmente
 1. Certifique-se de ter o Python e o Jupyter instalados em sua máquina.
